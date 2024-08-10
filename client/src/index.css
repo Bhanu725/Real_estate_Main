@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  /* position: relative;
+  background-repeat: no-repeat; */
+  background-color: #000300;
+}
+
+
+/* 
+h1{
+  position: relative;
+} */
+
+/* &::before{
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right:0;
+  bottom:0;
+  background-size: cover ;
+  background-position: top center;
+  background-image: url(C:\Users\91767\Downloads\realestate-main\client\public\backgroung_img.avif);
+  opacity: 0.9;
+} */
